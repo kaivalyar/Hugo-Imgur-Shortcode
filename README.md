@@ -1,6 +1,9 @@
 # Hugo-Imgur-Shortcode
 
-Embed Imgur Images into Hugo blog posts Automagically
+Embed Imgur Images into Hugo blog posts Automagically.
+
+## TL;DR
+Using [this](https://github.com/kaivalyar/Hugo-Imgur-Shortcode/blob/master/layouts/shortcodes/imgur.html) imgur shortcode, [this](https://github.com/kaivalyar/Hugo-Imgur-Shortcode/blob/master/example/content/posts/Demo.md) markdown post is rendered like [this](https://kaivalyar.github.io/Hugo-Imgur-Shortcode/).
 
 ## Synopsis
 
