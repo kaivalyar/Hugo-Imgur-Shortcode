@@ -10,7 +10,7 @@ Embed Imgur Images into Hugo blog posts Automagically
 
 1. Copy the `imgur.html` file into your `/layouts/shortcodes` folder (create this, if you don't already have it).
 2. In your Markdown post, simply insert `{{< imgur id=" ... " >}}`.
-3. In your favourite browser, navigate to the Imgur post you want to embed, and find its ID (the code at the end of the URL).
+3. In your favourite browser, navigate to the Imgur post you want to embed, and find its ID (the code at the end of the URL). As you can see in the [demo](https://github.com/kaivalyar/Hugo-Imgur-Shortcode/blob/master/example/content/posts/Demo.md), for [https://imgur.com/a/vRbDiHJ](https://imgur.com/a/vRbDiHJ), this ID is `vRbDiHJ`.
 4. Replace ` ... ` in step 2 with this ID.
 
 ## Issues
